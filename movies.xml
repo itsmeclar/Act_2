@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<movies>
+    <movie id="1">
+        <movieTitle>Inception</movieTitle>
+        <director>Christopher Nolan</director>
+        <actors>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Joseph Gordon-Levitt</actor>
+            <actor>Tom Hardy</actor>
+        </actors>
+        <year>2010</year>
+    </movie>
+    <movie id="2">
+        <movieTitle>Gladiator</movieTitle>
+        <director>Ridley Scott</director>
+        <actors>
+            <actor>Russell Crowe</actor>
+            <actor>Joaquin Phoenix</actor>
+            <actor>Connie Nielsen</actor>
+        </actors>
+        <year>2000</year>
+    </movie>
+    <movie id="3">
+        <movieTitle>Titanic</movieTitle>
+        <director>James Cameron</director>
+        <actors>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Kate Winslet</actor>
+            <actor>Billy Zane</actor>
+        </actors>
+        <year>1997</year>
+    </movie>
+    <movie id="4">
+        <movieTitle>The Dark Knight</movieTitle>
+        <director>Christopher Nolan</director>
+        <actors>
+            <actor>Christian Bale</actor>
+            <actor>Heath Ledger</actor>
+            <actor>Aaron Eckhart</actor>
+        </actors>
+        <year>2008</year>
+    </movie>
+    <movie id="5">
+        <movieTitle>La La Land</movieTitle>
+        <director>Damien Chazelle</director>
+        <actors>
+            <actor>Ryan Gosling</actor>
+            <actor>Emma Stone</actor>
+            <actor>John Legend</actor>
+        </actors>
+        <year>2016</year>
+    </movie>
+</movies>
